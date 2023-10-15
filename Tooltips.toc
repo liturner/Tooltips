@@ -1,0 +1,7 @@
+## Interface: 30403
+## Title: Tooltips
+## Author: TurnerTech
+## Version: 1.0.0
+## Notes: Shows sell price tooltip information
+
+Tooltips.lua
