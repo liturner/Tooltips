@@ -1,3 +1,12 @@
+
+
+--[[
+
+	This is goign to require a full rewrite due to API changes
+
+]]
+
+
 local name, Tooltips = ...
 
 Tooltips.MainFrame = CreateFrame('FRAME', nil, UIParent)
